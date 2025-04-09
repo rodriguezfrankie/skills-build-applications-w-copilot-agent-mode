@@ -1,5 +1,5 @@
 # Required packages for the OctoFit Tracker backend
 # Updated Django version to 4.1
-Django>=4.1,<5.0
+Django==4.1,<5.0
 djangorestframework>=3.12,<4.0
 psycopg2>=2.8,<3.0
